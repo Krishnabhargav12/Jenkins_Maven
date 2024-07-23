@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-23T23:49:13 IST" name="Surefire suite" finished-at="2024-07-23T23:49:48 IST" duration-ms="34755">
+    <groups>
+    </groups>
+    <test started-at="2024-07-23T23:49:13 IST" name="Surefire test" finished-at="2024-07-23T23:49:48 IST" duration-ms="34755">
+      <class name="Test.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:13 IST" name="setup" finished-at="2024-07-23T23:49:24 IST" duration-ms="10355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="BankLogo()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:24 IST" name="BankLogo" finished-at="2024-07-23T23:49:24 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BankLogo -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:24 IST" name="TearDown" finished-at="2024-07-23T23:49:24 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:24 IST" name="setup" finished-at="2024-07-23T23:49:30 IST" duration-ms="5622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ForgotLoginTest()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:30 IST" name="ForgotLoginTest" finished-at="2024-07-23T23:49:31 IST" duration-ms="1505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ForgotLoginTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:31 IST" name="TearDown" finished-at="2024-07-23T23:49:32 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:32 IST" name="setup" finished-at="2024-07-23T23:49:38 IST" duration-ms="6496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomeButtonTesting()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:38 IST" name="HomeButtonTesting" finished-at="2024-07-23T23:49:40 IST" duration-ms="1686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeButtonTesting -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:40 IST" name="TearDown" finished-at="2024-07-23T23:49:40 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:40 IST" name="setup" finished-at="2024-07-23T23:49:48 IST" duration-ms="7579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TitleTest()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:48 IST" name="TitleTest" finished-at="2024-07-23T23:49:48 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Test.LoginTest@ba54932]" started-at="2024-07-23T23:49:48 IST" name="TearDown" finished-at="2024-07-23T23:49:48 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Test.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
